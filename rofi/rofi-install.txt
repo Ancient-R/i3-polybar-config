@@ -1,1 +1,6 @@
+	## INSTALL
 sudo apt-get install rofi
+
+	## CONFIG
+create dir "rofi" in ./config and copy all content the colors-rofi-dark.rasi \
+to /.config/config.rasi
